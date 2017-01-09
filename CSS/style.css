@@ -1,0 +1,18 @@
+p {
+	font-family: courier;
+	padding: 30px;
+	margin: 30px;
+	border: 1px solid white;
+}
+
+addr {
+	font-family: courier;
+}
+
+#einstein {
+	font-family: papyrus;
+}
+
+code.c_language {
+	color: blue;
+}
